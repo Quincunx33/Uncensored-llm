@@ -6,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/Claude-Anthropic-d97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/GPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" /> <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Grok-xAI-111111?style=for-the-badge" alt="Grok" /> <img src="https://img.shields.io/badge/Kimi-Moonshot-5B6CFF?style=for-the-badge" alt="Kimi" />
 
+[<img src="https://img.shields.io/badge/More_Prompts-Explore_the_library-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="More Prompts" />](https://quincunx33.github.io/Ai-jailbreak/)
+
 </div>
 
 
